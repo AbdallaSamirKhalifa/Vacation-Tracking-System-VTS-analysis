@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.7 Chrome/138.0.7204.251 Electron/37.7.1 Safari/537.36" version="28.2.7">
   <diagram id="S7oDffA0UA845WFk5eQJ" name="VTS-Manage Time-Use case-Diagram">
-    <mxGraphModel dx="1042" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1152" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,16 +155,22 @@
         <mxCell id="yz8skACeJd5EfOy3Yu1Z-65" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1330" y="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yz8skACeJd5EfOy3Yu1Z-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="yz8skACeJd5EfOy3Yu1Z-67" target="yz8skACeJd5EfOy3Yu1Z-52" edge="1">
+        <mxCell id="yz8skACeJd5EfOy3Yu1Z-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="yz8skACeJd5EfOy3Yu1Z-79" target="yz8skACeJd5EfOy3Yu1Z-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1570" y="135" />
+              <mxPoint x="1790" y="875" />
+              <mxPoint x="1790" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yz8skACeJd5EfOy3Yu1Z-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yz8skACeJd5EfOy3Yu1Z-67" target="yz8skACeJd5EfOy3Yu1Z-79" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1580" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PwyMjqyxijvfLkjZZJEL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="yz8skACeJd5EfOy3Yu1Z-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1790" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yz8skACeJd5EfOy3Yu1Z-67" value="Valid" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -235,7 +241,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yz8skACeJd5EfOy3Yu1Z-93" value="Change Info" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yz8skACeJd5EfOy3Yu1Z-93" value="Employee changes info" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="930" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yz8skACeJd5EfOy3Yu1Z-95" value="Cancel Request" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
