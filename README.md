@@ -39,8 +39,9 @@ Every thing is in the `VTS-Analysis.pdf` and i also included a `.png` .
 
 ### Manage Request Flowchart (Manger Scenario - Approve / Reject)
 
+<p align=center>
 [![Mange Request flowchart](./Manage-time-diagrams/ManagerMangesRequest-flowchart.png)](./Manage-time-diagrams/ManagerMangesRequest-flowchart.png)
-
+</p>
 ### Sequence Diagram
 
 [![Sequence Diagram](./Manage-time-diagrams/VTS-squence%20Diagram.png)](./Manage-time-diagrams/VTS-squence%20Diagram.png)
