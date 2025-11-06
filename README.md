@@ -27,6 +27,12 @@ Every thing is in the `VTS-Analysis.pdf` and i also included a `.png` .
 
 ---
 
+<h2 align=center>Data Model</h2>
+
+[![Data Model](VTS-Data%20Model.png)](VTS-Data%20Model.png)
+
+---
+
 <h2 align=center>(Manage Time Use Case) Diagrams & Flowcharts</h2>
 
 ### Use Case
