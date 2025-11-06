@@ -27,9 +27,9 @@ Every thing is in the `VTS-Analysis.pdf` and i also included a `.png` .
 
 ---
 
-<h2 align=center>Manage Time Use Case Diagrams</h2>
+<h2 align=center>(Manage Time Use Case) Diagrams & Flowcharts</h2>
 
-### Use Case Diagram
+### Use Case
 
 [![Use Case Diagram](./Manage-time-diagrams/VTS-Manage%20Time-Use%20case%20Diagram.png)](./Manage-time-diagrams/VTS-Manage%20Time-Use%20case%20Diagram.png)
 
