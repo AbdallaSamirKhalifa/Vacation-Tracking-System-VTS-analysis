@@ -23,7 +23,23 @@ The exercise is a mentorship task that aims to prepare us with Interpersonal & T
 
 ## How to Browse
 
-Every thing is in the `VTS-Analysis.pdf` and i also included a `.jpg` in case the file reduced the quality .
+Every thing is in the `VTS-Analysis.pdf` and i also included a `.png` .
+
+## Use Case Diagram [Mange Time Use Case]
+
+[![Use Case Diagram](./Manage-time-diagrams/VTS-Manage%20Time-Use%20case%20Diagram.png)](./Manage-time-diagrams/VTS-Manage%20Time-Use%20case%20Diagram.png)
+
+## Create New Request Flowchart (Employee Scenario) [Manage Time Use Case]
+
+[![Create New Request flowchart](./Manage-time-diagrams/EmpNewReq-flowchart.png)](./Manage-time-diagrams/EmpNewReq-flowchart.png)
+
+## Manage Request Flowchart (Manger Scenario - Approve / Reject) [Manage Time Use Case]
+
+[![Mange Request flowchart](./Manage-time-diagrams/ManagerMangesRequest-flowchart.png)](./Manage-time-diagrams/ManagerMangesRequest-flowchart.png)
+
+## Sequence Diagram [Mange Time Use Case]
+
+[![Sequence Diagram](./Manage-time-diagrams/VTS-squence%20Diagram.png)](./Manage-time-diagrams/VTS-squence%20Diagram.png)
 
 ---
 
