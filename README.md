@@ -37,7 +37,7 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ### Use Case
 
-[![Use Case Diagram](./Manage-time-diagrams/VTS-Manage%20Time-Use%20case%20Diagram.png)](./Manage-time-diagrams/VTS-Manage%20Time-Use%20case%20Diagram.png)
+[![Use Case Diagram](./Manage-time-diagrams/Use%20case%20Diagram.png)](./Manage-time-diagrams/Use%20case%20Diagram.png)
 
 ### Flowchart (Employee Scenario)
 
@@ -53,7 +53,7 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ### Sequence Diagram
 
-[![Sequence Diagram](./Manage-time-diagrams/VTS-squence%20Diagram.png)](./Manage-time-diagrams/VTS-squence%20Diagram.png)
+[![Sequence Diagram](./Manage-time-diagrams/squence%20Diagram.png)](./Manage-time-diagrams/squence%20Diagram.png)
 
 ---
 
@@ -61,11 +61,11 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ## Flowchart
 
-[![Flowchart](./Withdraw%20Request_Diagrams/withdrawRequest_flowchart.png)](./Withdraw%20Request_Diagrams/withdrawRequest_flowchart.png)
+[![Flowchart](./Withdraw%20Request_Diagrams/flowchart.png)](./Withdraw%20Request_Diagrams/flowchart.png)
 
 ## Sequence Diagram
 
-[![Sequence Diagram](./Withdraw%20Request_Diagrams/withdrawRequest-Sequence%20Diagram.png)](./Withdraw%20Request_Diagrams/withdrawRequest-Sequence%20Diagram.png)
+[![Sequence Diagram](./Withdraw%20Request_Diagrams/Sequence%20Diagram.png)](./Withdraw%20Request_Diagrams/Sequence%20Diagram.png)
 
 ---
 
@@ -73,7 +73,11 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ## Flowchart
 
-[![Flow Chart](./CancelApprovedRequest_Diagrams/CancelApprovedRequest_flowchart.png)](./CancelApprovedRequest_Diagrams/CancelApprovedRequest_flowchart.png)
+[![Flow Chart](./CancelApprovedRequest_Diagrams/flowchart.png)](./CancelApprovedRequest_Diagrams/flowchart.png)
+
+## Sequence Diagram
+
+[![Sequence Diagram](./CancelApprovedRequest_Diagrams/SequenceDiagram.png)](./CancelApprovedRequest_Diagrams/SequenceDiagram.png)
 
 ---
 
