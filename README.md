@@ -39,11 +39,11 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 [![Use Case Diagram](./Manage-time-diagrams/VTS-Manage%20Time-Use%20case%20Diagram.png)](./Manage-time-diagrams/VTS-Manage%20Time-Use%20case%20Diagram.png)
 
-### Create New Request Flowchart (Employee Scenario)
+### Flowchart (Employee Scenario)
 
 [![Create New Request flowchart](./Manage-time-diagrams/EmpNewReq-flowchart.png)](./Manage-time-diagrams/EmpNewReq-flowchart.png)
 
-### Manage Request Flowchart (Manger Scenario - Approve / Reject)
+### Flowchart (Manger Scenario - Approve / Reject)
 
 <div align=center>
 
@@ -59,13 +59,21 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 <h2 align=center>(Withdraw Request Use Case) Diagrams & Flowcharts</h2>
 
-## Withdraw Request Flowchart
+## Flowchart
 
 [![Flowchart](./Withdraw%20Request_Diagrams/withdrawRequest_flowchart.png)](./Withdraw%20Request_Diagrams/withdrawRequest_flowchart.png)
 
 ## Sequence Diagram
 
 [![Sequence Diagram](./Withdraw%20Request_Diagrams/withdrawRequest-Sequence%20Diagram.png)](./Withdraw%20Request_Diagrams/withdrawRequest-Sequence%20Diagram.png)
+
+---
+
+<h2 align=center>(Cancel Approved Request) Diagrams & Flowcharts</h2>
+
+## Flowchart
+
+[![Flow Chart](./CancelApprovedRequest_Diagrams/CancelApprovedRequest_flowchart.png)](./CancelApprovedRequest_Diagrams/CancelApprovedRequest_flowchart.png)
 
 ---
 
