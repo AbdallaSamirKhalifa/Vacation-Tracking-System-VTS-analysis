@@ -57,5 +57,13 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ---
 
+<h2 align=center>(Withdraw Request Use Case) Diagrams & Flowcharts</h2>
+
+## Withdraw Request Flowchart
+
+[![Flowchart](./Withdraw%20Request_Diagrams/withdrawRequest_flowchart.png)](./Withdraw%20Request_Diagrams/withdrawRequest_flowchart.png)
+
+---
+
 Thank you for your interest.
 Feel free to review, provide feedback, or fork for your own implementation!
