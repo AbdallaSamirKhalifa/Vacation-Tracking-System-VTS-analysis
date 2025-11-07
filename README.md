@@ -63,6 +63,10 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 [![Flowchart](./Withdraw%20Request_Diagrams/withdrawRequest_flowchart.png)](./Withdraw%20Request_Diagrams/withdrawRequest_flowchart.png)
 
+## Sequence Diagram
+
+[![Sequence Diagram](./Withdraw%20Request_Diagrams/withdrawRequest-Sequence%20Diagram.png)](./Withdraw%20Request_Diagrams/withdrawRequest-Sequence%20Diagram.png)
+
 ---
 
 Thank you for your interest.
