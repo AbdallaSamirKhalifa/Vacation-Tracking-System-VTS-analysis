@@ -23,7 +23,7 @@ The exercise is a mentorship task that aims to prepare us with Interpersonal & T
 
 ## How to Browse
 
-Every thing is in the `VTS-Analysis.pdf` and i also included a `.png` .
+All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf).
 
 ---
 
