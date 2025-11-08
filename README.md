@@ -27,7 +27,7 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ---
 
-<h2 align=center>Data Model</h2>
+<h2 align=center>High Level UI View</h2>
 
 [![Data Model](VTS-Data%20Model.png)](VTS-Data%20Model.png)
 
