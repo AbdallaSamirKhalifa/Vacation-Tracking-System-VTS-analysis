@@ -33,6 +33,18 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ---
 
+<h2 align=center>Data Model</h2>
+
+## Employee View
+
+[![Employee View](./UI/Employee-View.png)](./UI/Employee-View.png)
+
+## Manager View
+
+[![Employee View](./UI/Manager-View.png)](./UI/Manager-View.png)
+
+---
+
 <h2 align=center>(Manage Time Use Case) Diagrams & Flowcharts</h2>
 
 ### Use Case
