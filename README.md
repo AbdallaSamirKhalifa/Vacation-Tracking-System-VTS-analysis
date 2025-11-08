@@ -75,6 +75,10 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 [![FLowchart](./Edit-Pending-Request_Diagrams/Edit-Pending-Request_fowchart.png)](./Edit-Pending-Request_Diagrams/Edit-Pending-Request_fowchart.png)
 
+## Sequence Diagram
+
+[![Sequence Diagram](./Edit-Pending-Request_Diagrams/Sequence-Diagram.png)](./Edit-Pending-Request_Diagrams/Sequence-Diagram.png)
+
 ---
 
 <h2 align=center>(Withdraw Request Use Case) Diagrams & Flowcharts</h2>
