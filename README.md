@@ -37,23 +37,23 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ### Use Case
 
-[![Use Case Diagram](./Manage-time-diagrams/Use%20case%20Diagram.png)](./Manage-time-diagrams/Use%20case%20Diagram.png)
+[![Use Case Diagram](./Manage-Time_Diagrams/Use%20case%20Diagram.png)](./Manage-Time_Diagrams/Use%20case%20Diagram.png)
 
 ### Flowchart (Employee Scenario)
 
-[![Create New Request flowchart](./Manage-time-diagrams/EmpNewReq-flowchart.png)](./Manage-time-diagrams/EmpNewReq-flowchart.png)
+[![Create New Request flowchart](./Manage-Time_Diagrams/EmpNewReq-flowchart.png)](./Manage-Time_Diagrams/EmpNewReq-flowchart.png)
 
 ### Flowchart (Manger Scenario - Approve / Reject)
 
 <div align=center>
 
-[![Mange Request flowchart](./Manage-time-diagrams/ManagerMangesRequest-flowchart.png)](./Manage-time-diagrams/ManagerMangesRequest-flowchart.png)
+[![Mange Request flowchart](./Manage-Time_Diagrams/ManagerMangesRequest-flowchart.png)](./Manage-Time_Diagrams/ManagerMangesRequest-flowchart.png)
 
 </div>
 
 ### Sequence Diagram
 
-[![Sequence Diagram](./Manage-time-diagrams/squence%20Diagram.png)](./Manage-time-diagrams/squence%20Diagram.png)
+[![Sequence Diagram](./Manage-Time_Diagrams/squence%20Diagram.png)](./Manage-Time_Diagrams/squence%20Diagram.png)
 
 ---
 
@@ -61,11 +61,11 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ## Flowchart
 
-[![Flow Chart](./CancelApprovedRequest_Diagrams/flowchart.png)](./CancelApprovedRequest_Diagrams/flowchart.png)
+[![Flow Chart](./Cancel-Approved-Request_Diagrams/flowchart.png)](./Cancel-Approved-Request_Diagrams/flowchart.png)
 
 ## Sequence Diagram
 
-[![Sequence Diagram](./CancelApprovedRequest_Diagrams/SequenceDiagram.png)](./CancelApprovedRequest_Diagrams/SequenceDiagram.png)
+[![Sequence Diagram](./Cancel-Approved-Request_Diagrams/SequenceDiagram.png)](./Cancel-Approved-Request_Diagrams/SequenceDiagram.png)
 
 ---
 
@@ -85,11 +85,11 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ## Flowchart
 
-[![Flowchart](./Withdraw%20Request_Diagrams/flowchart.png)](./Withdraw%20Request_Diagrams/flowchart.png)
+[![Flowchart](./Withdraw-Request_Diagrams/flowchart.png)](./Withdraw-Request_Diagrams/flowchart.png)
 
 ## Sequence Diagram
 
-[![Sequence Diagram](./Withdraw%20Request_Diagrams/Sequence%20Diagram.png)](./Withdraw%20Request_Diagrams/Sequence%20Diagram.png)
+[![Sequence Diagram](./Withdraw-Request_Diagrams/Sequence%20Diagram.png)](./Withdraw-Request_Diagrams/Sequence%20Diagram.png)
 
 ---
 
