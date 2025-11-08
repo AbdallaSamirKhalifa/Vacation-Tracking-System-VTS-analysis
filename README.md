@@ -69,9 +69,13 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 </div>
 
-### Sequence Diagram
+### Sequence Diagram Employee Scenario
 
-[![Sequence Diagram](./Manage-Time_Diagrams/squence%20Diagram.png)](./Manage-Time_Diagrams/squence%20Diagram.png)
+[![Sequence Diagram](./Manage-Time_Diagrams/Employe-Scenario_Sequence-Diagram.png)](./Manage-Time_Diagrams/Employe-Scenario_Sequence-Diagram.png)
+
+### Sequence Diagram Manager Scenario
+
+[![Sequence Diagram](./Manage-Time_Diagrams/Manager-Scenario_Sequence-Diagram.png)](./Manage-Time_Diagrams/Manager-Scenario_Sequence-Diagram.png)
 
 ---
 
