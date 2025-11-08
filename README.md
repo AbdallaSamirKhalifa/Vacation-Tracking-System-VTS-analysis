@@ -57,18 +57,6 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ---
 
-<h2 align=center>(Withdraw Request Use Case) Diagrams & Flowcharts</h2>
-
-## Flowchart
-
-[![Flowchart](./Withdraw%20Request_Diagrams/flowchart.png)](./Withdraw%20Request_Diagrams/flowchart.png)
-
-## Sequence Diagram
-
-[![Sequence Diagram](./Withdraw%20Request_Diagrams/Sequence%20Diagram.png)](./Withdraw%20Request_Diagrams/Sequence%20Diagram.png)
-
----
-
 <h2 align=center>(Cancel Approved Request) Diagrams & Flowcharts</h2>
 
 ## Flowchart
@@ -78,6 +66,26 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 ## Sequence Diagram
 
 [![Sequence Diagram](./CancelApprovedRequest_Diagrams/SequenceDiagram.png)](./CancelApprovedRequest_Diagrams/SequenceDiagram.png)
+
+---
+
+<h2 align=center>(Edit Pending Request Use Case) Diagrams & Flowcharts</h2>
+
+## Flowchart
+
+[![FLowchart](./Edit-Pending-Request_Diagrams/Edit-Pending-Request_fowchart.png)](./Edit-Pending-Request_Diagrams/Edit-Pending-Request_fowchart.png)
+
+---
+
+<h2 align=center>(Withdraw Request Use Case) Diagrams & Flowcharts</h2>
+
+## Flowchart
+
+[![Flowchart](./Withdraw%20Request_Diagrams/flowchart.png)](./Withdraw%20Request_Diagrams/flowchart.png)
+
+## Sequence Diagram
+
+[![Sequence Diagram](./Withdraw%20Request_Diagrams/Sequence%20Diagram.png)](./Withdraw%20Request_Diagrams/Sequence%20Diagram.png)
 
 ---
 
