@@ -45,6 +45,12 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ---
 
+<h2 align=center>Request State Diagram</h2>
+
+[![State Diagram](Request_State-Diagram.png)](Request_State-Diagram.png)
+
+---
+
 <h2 align=center>(Manage Time Use Case) Diagrams & Flowcharts</h2>
 
 ### Use Case
