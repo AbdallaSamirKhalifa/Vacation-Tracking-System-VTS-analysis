@@ -12,7 +12,7 @@ The exercise is a mentorship task that aims to prepare us with Interpersonal & T
 - Functional & Non-Functional Requirements.
 - Actors, Constraints, Business Requirements, Assumptions.
 - Relational Schema (tables).
-- UML diagrams: Use Case diagram, Sequence diagram.
+- UML diagrams: Sequence diagram.
 - Flowcharts representing key system flows from high level perspective.
 - Pseudocode for major system operations.
 
@@ -53,15 +53,17 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 <h2 align=center>(Manage Time Use Case) Diagrams & Flowcharts</h2>
 
-### Use Case
-
-[![Use Case Diagram](./Manage-Time_Diagrams/Use%20case%20Diagram.png)](./Manage-Time_Diagrams/Use%20case%20Diagram.png)
-
 ### Flowchart (Employee Scenario)
+
+<div align=center>
 
 [![Create New Request flowchart](./Manage-Time_Diagrams/EmpNewReq-flowchart.png)](./Manage-Time_Diagrams/EmpNewReq-flowchart.png)
 
+</div>
+
 ### Flowchart (Manger Scenario - Approve / Reject)
+
+<div align=center>
 
 <div align=center>
 
@@ -69,13 +71,23 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 </div>
 
+</div>
+
 ### Sequence Diagram Employee Scenario
+
+<div align=center>
 
 [![Sequence Diagram](./Manage-Time_Diagrams/Employe-Scenario_Sequence-Diagram.png)](./Manage-Time_Diagrams/Employe-Scenario_Sequence-Diagram.png)
 
+</div>
+
 ### Sequence Diagram Manager Scenario
 
+<div align=center>
+
 [![Sequence Diagram](./Manage-Time_Diagrams/Manager-Scenario_Sequence-Diagram.png)](./Manage-Time_Diagrams/Manager-Scenario_Sequence-Diagram.png)
+
+</div>
 
 ---
 
