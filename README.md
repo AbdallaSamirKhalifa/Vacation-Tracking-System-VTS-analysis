@@ -111,11 +111,19 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ## Flowchart
 
-[![FLowchart](./Edit-Pending-Request_Diagrams/Edit-Pending-Request_fowchart.png)](./Edit-Pending-Request_Diagrams/Edit-Pending-Request_fowchart.png)
+<div align=center>
+
+[![FLowchart](./Edit-Pending-Request_Diagrams/fowchart.png)](./Edit-Pending-Request_Diagrams/fowchart.png)
+
+</div>
 
 ## Sequence Diagram
 
+<div align=center>
+
 [![Sequence Diagram](./Edit-Pending-Request_Diagrams/Sequence-Diagram.png)](./Edit-Pending-Request_Diagrams/Sequence-Diagram.png)
+
+</div>
 
 ---
 
