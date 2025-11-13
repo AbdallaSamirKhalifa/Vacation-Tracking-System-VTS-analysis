@@ -95,7 +95,11 @@ All diagrams with it's preconditions are in the [VTS-Analysis](VTS-Analysis.pdf)
 
 ## Flowchart
 
+<div align=center>
+
 [![Flow Chart](./Cancel-Approved-Request_Diagrams/flowchart.png)](./Cancel-Approved-Request_Diagrams/flowchart.png)
+
+</div>
 
 ## Sequence Diagram
 
